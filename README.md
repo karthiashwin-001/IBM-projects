@@ -5,5 +5,5 @@ The SmartSDLC project is an AI-enhanced platform designed to automate and stream
 ## 🎥Demo vedio
 ▶[Watch the video](https://drive.google.com/file/d/1d-lJEOEUX1SYf4p9nbn9djnVkVntV7QX/view?usp=drivesdk)
 
-## Application link
-💻[Here is your application link](https://a06dfa89fa899df235.gradio.live)
+## 💻Application link
+➥[Here is your application link](https://a06dfa89fa899df235.gradio.live)
